@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+
+body {
+  font-family: "Montserrat", Arial, sans-serif;
+  @apply antialiased;
+}
+
+@tailwind utilities;
